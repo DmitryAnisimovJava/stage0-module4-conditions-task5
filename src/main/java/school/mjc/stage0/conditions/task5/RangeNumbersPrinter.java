@@ -12,7 +12,7 @@ public class RangeNumbersPrinter {
 			break;
 		}
 		default:
-			System.out.println("Out of range");
+			System.out.println("out of range");
 		}
     }
 }
